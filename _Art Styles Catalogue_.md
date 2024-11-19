@@ -1,0 +1,82 @@
+
+## Classic & Traditional Styles
+
+| Style                                                                                               | Description                                                                                                                    | Preview                              |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
+| **[Realism](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241118:realism:ec9e08e4)**             | Seeks to represent subject matter truthfully, without artificiality and avoiding artistic conventions                          | ![Realism](20241118145528.png)       |
+| **[Expressionism](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241118:expressionism:a94cd412)** | Presents the world solely from a subjective perspective, distorting it radically for emotional effect                          | ![Expressionism](20241118145708.png) |
+| **[Cubism](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241118:cubism:6a89c96d)**               | Employs geometric shapes and fragmented forms to depict objects and figures from multiple viewpoints simultaneously            | ![Cubism](20241118145859.png)        |
+| **[Renaissance](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241118:renaissance:50beb146)**     | Characterized by renewed interest in classical art and learning, emphasizing realism, human anatomy, and balanced compositions | ![Renaissance](20241118150503.png)   |
+| **[Baroque](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241118:baroque:7aa58640)**             | Known for its drama, grandeur, ornate detail, rich color, and emotional intensity                                              | ![Baroque](20241118152034.png)       |
+| **[Byzantine](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241118:byzantine:5ad8b28a)**         | Highly stylized religious art with flattened figures, gold backgrounds, and symbolic imagery                                   | ![Byzantine](20241118153540.png)     |
+| **[Gothic](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241118:gothic:17fb210f)**               | Characterized by pointed arches, ribbed vaults, stained glass, and intricate tracery                                           | ![Gothic](20241118155038.png)        |
+| **[Romanticism](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241118:romanticism:57d2de13)**     | Emphasizes emotion, individualism, the power of nature, and the sublime                                                        | ![Romanticism](20241118155936.png)   |
+| **[Neoclassicism](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:neoclassicism:46ba55ca)** | A revival of classical Greek and Roman art, emphasizing order, symmetry, and restraint                                         | ![Neoclassicism](20241118160433.png) |
+| **[Rococo](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:rococo:02f8917e)**               | An ornamental and theatrical style known for its asymmetry, pastel colors, and lighthearted themes                             | ![Rococo](20241118160853.png)        |
+| **[Ukiyo-e](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:ukiyo-e:37560484)**             | Japanese woodblock prints depicting scenes of everyday life, landscapes, and courtesans from the Edo period                    | ![Ukiyo-e](20241118161430.png)       |
+| **[Impressionism](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:impressionism:86a365e4)** | Captures the fleeting moment and the subjective experience of light and color                                                  | ![Impressionism](20241118163109.png) |
+| **[Art Nouveau](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:art-nouveau:775b9514)**     | Inspired by natural forms and structures, particularly curved lines of plants and flowers                                      | ![Art Nouveau](20241118163748.png)   |
+| **[Art Deco](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:art-deco:59aea921)**           | Geometric shapes, symmetry, and streamlined designs characterize this elegant and glamorous style                              | ![Art Deco](20241118164309.png)      |
+
+## Modern & Contemporary Styles
+
+| Style                                                                                                                 | Description                                                                                  | Preview                                       |
+| --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| **[Surrealism](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:surrealism:8c44614d)**                         | Explores the unconscious mind and dreams, often creating bizarre and dreamlike imagery       | ![Surrealism](20241118165418.png)             |
+| **[Lowbrow Pop Surrealism](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:lowbrow-pop-surrealism:de79b8d2)** | Combines pop culture imagery with surrealist themes, often with a playful or subversive edge | ![Lowbrow Pop Surrealism](20241118170344.png) |
+| **[Mid-Century Modern](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:mid-century-modern:3fad8183)**         | Clean lines, organic shapes, and a focus on functionality characterize this design movement  | ![Mid-Century Modern](20241118172001.png)     |
+| **[Bauhaus](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:bauhaus:c4e34d94)**                               | Influential design school that emphasized the unity of art, craft, and technology            | ![Bauhaus](20241118172440.png)                |
+
+## Digital & Conceptual Styles
+
+| Style                                                                                                                                                     | Description                                                                                   | Preview                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| **[Data Visualization](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:data-visualization:cb06293b)**                                             | Transforms data into visual representations to make complex information more accessible       | ![Data Visualization](20241119065120.png)    |
+| **[Generative Art](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:generative-art:e7cf8dac)**                                                     | Created through algorithms, computer programs, or autonomous systems                          | ![Generative Art](20241119065321.png)        |
+| **[Interactive Art](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:interactive-art:d4a70de2)**                                                   | Requires viewer participation to complete the artwork                                         | ![Interactive Art](20241119065553.png)       |
+| **[Augmented Reality Art](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:augmented-reality-art:ba78abb0)**                                       | Overlays digital elements onto the real world, enhancing or altering perception               | ![Augmented Reality Art](20241119065732.png) |
+| **[Glitch Art](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:glitch-art-interactive-generative:7cbb6e3e)**                                      | Uses digital or analog errors for aesthetic purposes, creating distorted or corrupted visuals | ![Glitch Art](20241119065843.png)            |
+| **[Interactive Projection Mapping](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:interactive-installations-using-projection-mapping:aa11911d)** | Projects images onto three-dimensional surfaces to create immersive experiences               | ![Projection Mapping](20241119070023.png)    |
+| **[Cyberpunk UI](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:cyberpunk-ui:c1ee6f63)**                                                         | Gritty, tech-focused interfaces featuring neon colors, dystopian themes, and complex displays | ![Cyberpunk UI](20241119070445.png)          |
+
+## Street/Urban & Illustration Styles
+
+| Style                                                                                                                       | Description                                                                                                  | Preview                                                          |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| **Street Art & Graffiti**                                                                                                   | Visual art created in public locations, often unauthorized, ranging from simple tags to elaborate murals     | ![Street Art](Pasted image 20241118145528.png)                   |
+| **[Comic Book Style (American & Manga)](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:comic-book-style:example)** | Distinct visual styles used in comics, characterized by dynamic compositions, bold lines, and vibrant colors | ![Comic Book Style](Pasted image 20241118145708.png)             |
+| **Caricature**                                                                                                              | Exaggerated portraits that emphasize distinctive features for comedic effect                                 | ![Caricature](Pasted image 20241118145859.png)                   |
+| **Children's Book Illustration**                                                                                            | Visual art created to accompany children's literature, often whimsical and colorful                          | ![Children's Book Illustration](Pasted image 20241118150503.png) |
+| **Botanical Illustration**                                                                                                  | Detailed and scientifically accurate depictions of plants                                                    | ![Botanical Illustration](Pasted image 20241118152034.png)       |
+
+## Animation & Related Styles
+
+| Style                                                                                                     | Description                                                                                        | Preview                                              |
+| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| **[Anime (Shonen, Shojo, Mecha)](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:anime:example)** | Japanese animation with diverse subgenres, each with its own distinct visual style                 | ![Anime](Pasted image 20241118153540.png)            |
+| **Motion Graphics**                                                                                       | Animated text, shapes, and logos used in video production and graphic design                       | ![Motion Graphics](Pasted image 20241118155038.png)  |
+| **Cutout Animation**                                                                                      | Uses paper or digital cutouts to create animated sequences                                         | ![Cutout Animation](Pasted image 20241118155936.png) |
+| **Rotoscoping**                                                                                           | Animators trace over live-action footage to create realistic movement                              | ![Rotoscoping](Pasted image 20241118160433.png)      |
+| **[Pixar Style](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:pixar-style:example)**            | High-quality CG animation with stylized characters, appealing storytelling, and realistic lighting | ![Pixar Style](Pasted image 20241118160853.png)      |
+| **Low Poly 3D**                                                                                           | Simplistic 3D aesthetic using a low polygon count, creating a blocky or faceted look               | ![Low Poly 3D](Pasted image 20241118161430.png)      |
+| **Voxel Art (3D)**                                                                                        | 3D pixel art using cubes or "voxels" as building blocks                                            | ![Voxel Art](Pasted image 20241118163109.png)        |
+| **Real-Time Rendering Styles**                                                                            | Styles used in game engines to create interactive 3D graphics                                      | ![Rendering Styles](Pasted image 20241118164309.png) |
+| **Motion Capture Driven Animation**                                                                       | Animation based on data captured from the movements of real actors                                 | ![Motion Capture](Pasted image 20241118165418.png)   |
+
+## Design-Centric Styles
+
+| Style                                                                                      | Description                                                                                                            | Preview                                             |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| **Psychedelic Art**                                                                        | Vivid colors, swirling patterns, and distorted forms inspired by psychedelic experiences                               | ![Psychedelic Art](Pasted image 20241118170344.png) |
+| **Flat Design**                                                                            | Minimalist design aesthetic emphasizing simple shapes, bright colors, and two-dimensionality                           | ![Flat Design](Pasted image 20241118172001.png)     |
+| **[Cyberpunk](https://chat.mistral.ai/chat?model=ag:6728f2d0:20241119:cyberpunk:example)** | Dystopian science fiction genre characterized by advanced technology, social inequality, and gritty urban environments | ![Cyberpunk](Pasted image 20241118172440.png)       |
+| **Steampunk**                                                                              | Retrofuturistic subgenre incorporating technology and aesthetics inspired by 19th-century steam-powered machinery      | ![Steampunk](image 20241119065120.png)              |
+| **Vaporwave**                                                                              | Aesthetics of early internet culture, retro technology, and consumerism, often incorporating distorted visuals         | ![Vaporwave](Pasted image 20241119065321.png)       |
+
+## Other/Subgenres
+
+| Style | Description | Preview |
+|-------|-------------|---------|
+| **Tribal Art** | Visual art created by indigenous cultures, often with symbolic or spiritual significance | ![Tribal Art](Pasted image 20241119065553.png) |
+| **Noir Graphic Novel Style** | Dark, gritty visual style characterized by high contrast, dramatic lighting, and themes of crime and mystery | ![Noir Style](Pasted image 20241119065732.png) |
+| **Kitsch** | Art or design considered to be in poor taste because of excessive garishness or sentimentality, sometimes appreciated ironically | ![Kitsch](Pasted image 20241119065843.png) |
